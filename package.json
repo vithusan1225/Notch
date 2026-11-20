@@ -1,0 +1,13 @@
+{
+  "name": "islet",
+  "version": "0.1.0",
+  "description": "A notch for your Windows desktop",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^45.3.3"
+  }
+}
